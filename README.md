@@ -1,8 +1,14 @@
-# MY MANIFIESTA
+<div align="center">
+  <picture>
+    <img alt="logo" height="200px" src="https://github.com/manifiesta/app/assets/45843802/73ccdfd3-5f41-48c2-9c23-50b5437be46a">
+  </picture>
+</div>
+
+# My ManiFiesta
 
 ManiFiesta is a festival that takes place every year in September in Belgium, the festival of solidarity, with concerts, debates or artistic activities.
 
-Here is the official mobile app allowing first of all to see the programme more easily and to put your favourites there.
+This repo contains the code for the official mobile app.
 
 ## Tech stuff
 
@@ -21,12 +27,12 @@ See the package json file to see automatic script to run, test and build. Inform
 
 ## License
 
-[GPL-3](https://choosealicense.com/licenses/gpl-3.0/)
+[GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
 
-### TODO
+## TODO
 
 Lot of refactor
 
 Unit Testing
 
-Any idea of new functionality ?
+Any idea of new functionality?
