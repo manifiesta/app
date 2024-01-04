@@ -25,10 +25,6 @@ For Apple Store we need screenshot right from the physical iPhone (no emulator)
 
 See the package json file to see automatic script to run, test and build. Information for deployed on the Play and Apple Store will come later.
 
-## License
-
-[GPLv3](https://choosealicense.com/licenses/gpl-3.0/)
-
 ## TODO
 
 Lot of refactor
